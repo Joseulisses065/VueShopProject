@@ -50,7 +50,7 @@
   
     <div class="copyright text-align-center pt-16 pb-16">
       <div class="container">
-        <small><strong>Desenvolvido por:</strong> José Ulisses - Uninassau - IV Período de Sistemas de Informação</small>
+        <small><strong>Desenvolvido por:</strong> José Ulisses, Ariel Angelo - Uninassau - IV Período de Sistemas de Informação</small>
       </div>
     </div>
 </template>
