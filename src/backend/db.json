@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "T-Shirt",
+      "price": 100,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "images": [
+        "https://i.imgur.com/QkIa5tT.jpeg",
+        "https://i.imgur.com/jb5Yu0h.jpeg",
+        "https://i.imgur.com/UlxxXyG.jpeg"
+      ],
+      "creationAt": "2023-12-02T11:22:18.000Z",
+      "updatedAt": "2023-12-02T19:33:06.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2023-12-02T11:22:18.000Z",
+        "updatedAt": "2023-12-02T11:22:18.000Z"
+      }
+    },
+    {
+      "id": 6,
+      "title": "bants",
+      "price": 100,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "images": [
+        "https://i.imgur.com/ZKGofuB.jpeg",
+        "https://i.imgur.com/GJi73H0.jpeg",
+        "https://i.imgur.com/633Fqrz.jpeg"
+      ],
+      "creationAt": "2023-12-02T11:22:18.000Z",
+      "updatedAt": "2023-12-02T19:25:18.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2023-12-02T11:22:18.000Z",
+        "updatedAt": "2023-12-02T11:22:18.000Z"
+      }
+    },
+    {
+      "id": 7,
+      "title": "wide pants",
+      "price": 89,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "images": [
+        "https://i.imgur.com/mp3rUty.jpeg",
+        "https://i.imgur.com/JQRGIc2.jpeg"
+      ],
+      "creationAt": "2023-12-02T11:22:18.000Z",
+      "updatedAt": "2023-12-02T19:36:33.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2023-12-02T11:22:18.000Z",
+        "updatedAt": "2023-12-02T11:22:18.000Z"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Luxurious Steel Hat",
+      "price": 894,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "images": [
+        "https://i.imgur.com/9LFjwpI.jpeg",
+        "https://i.imgur.com/vzrTgUR.jpeg",
+        "https://i.imgur.com/p5NdI6n.jpeg"
+      ],
+      "creationAt": "2023-12-02T11:22:18.000Z",
+      "updatedAt": "2023-12-02T11:22:18.000Z",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2023-12-02T11:22:18.000Z",
+        "updatedAt": "2023-12-02T11:22:18.000Z"
+      }
+    }
+  ]
+}
